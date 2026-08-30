@@ -1,0 +1,7 @@
+{
+  "name": "CONVX Music",
+  "description": "CONVX Audiophile offline high-resolution lossless music player with fluid animations, custom themes, and library metadata management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
